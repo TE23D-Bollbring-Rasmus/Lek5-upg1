@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[] args) throws Exception {
-  Bil bil1 = new Bil("Volvo", "245 GL", "ABC123", 1983);
+  Bil bil1 = new Bil("Volvo", "V70", "ABC123", 1983);
         System.out.println(bil1);
 
         bil1.ökaHastighet(50);
